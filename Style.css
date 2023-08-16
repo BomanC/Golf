@@ -23,8 +23,7 @@ body {
 
 .header {
     width: 100%;
-    background-color: green;
-    display: block;
+    background-color: yellow;
 }
 
 .nav {
