@@ -11,14 +11,13 @@ body {
 }
 
 div {
-    display: flex;
     width: 800px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 30px;
     background-color: white;
     padding: 10px;
-    border: 4px solid;
+    border: solid;
 }
 
 header {
