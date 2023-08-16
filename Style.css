@@ -7,10 +7,10 @@
 }
 
 body {
-    background-color: grey;
+    background-color: white;
 }
 
-.container {
+div {
     display: flex;
     width: 800px;
     margin-left: 50px;
