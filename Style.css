@@ -26,6 +26,13 @@ header {
 }
 
 nav ul li{
+    float: left;
+    background-color: darkgreen;
+}
+
+a{
+    display: block;
+    padding: 8px;
     background-color: darkgreen;
 }
 
