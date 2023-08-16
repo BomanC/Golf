@@ -43,8 +43,8 @@ li {
     float: left;
 }
 
-a:hover{
-    color: white;
+li a:hover {
+    color: darkgreen;
 }
 
 h1{
