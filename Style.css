@@ -19,33 +19,3 @@ div {
     padding: 10px;
     border: solid;
 }
-
-header {
-    width: 100%;
-    background-color: green;
-}
-
-nav ul li{
-    float: left;
-    background-color: darkgreen;
-}
-
-a{
-    display: block;
-    padding: 8px;
-    background-color: darkgreen;
-}
-
-article{
-    padding: 20px;
-}
-
-h1 {
-    color: black;
-    font-size: large;
-}
-
-footer {
-    background-color: green;
-    text-align: right;
-}
