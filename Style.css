@@ -67,4 +67,5 @@ body {
 .footer {
     width: 100%;
     background-color: green;
+    float: right;
 }
