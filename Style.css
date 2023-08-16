@@ -24,10 +24,12 @@ div {
 header {
     width: 100%;
     background-color: green;
+    padding: 20px;
 }
 
 nav {
     width: 100%;
+    background-color: darkgreen;
 }
 
 ul {
@@ -39,4 +41,8 @@ ul {
 
 li {
     float: left;
+}
+
+a:hover{
+    color: white;
 }
